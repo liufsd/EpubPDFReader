@@ -1,0 +1,167 @@
+// !$*UTF8*$!
+{
+	6B766DF0143C4F4A00F5AB1B /* BasicReaderForIphone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BasicReaderForIphone;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6B766E0A143C4F4C00F5AB1B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6B766E0B143C4F4C00F5AB1B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6B766E38143C4FA100F5AB1B /* EPub.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 312}}";
+			sepNavSelRange = "{192, 0}";
+			sepNavVisRange = "{83, 300}";
+		};
+	};
+	6B766E3D143C4FA100F5AB1B /* EPubViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {614, 1027}}";
+			sepNavSelRange = "{114, 0}";
+			sepNavVisRange = "{0, 404}";
+		};
+	};
+	6B766E3E143C4FA100F5AB1B /* EPubViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 4875}}";
+			sepNavSelRange = "{11597, 0}";
+			sepNavVisRange = "{11344, 283}";
+		};
+	};
+	6B766E58143C4FA100F5AB1B /* CXMLNode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1027}}";
+			sepNavSelRange = "{1274, 0}";
+			sepNavVisRange = "{1007, 605}";
+		};
+	};
+	6B766F2D143C50CC00F5AB1B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B766E38143C4FA100F5AB1B /* EPub.h */;
+		name = "EPub.h: 10";
+		rLen = 0;
+		rLoc = 192;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 83;
+	};
+	6B766F4E143C515700F5AB1B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B766E58143C4FA100F5AB1B /* CXMLNode.h */;
+		name = "CXMLNode.h: 30";
+		rLen = 0;
+		rLoc = 1274;
+		rType = 0;
+		vrLen = 605;
+		vrLoc = 1007;
+	};
+	6B766F4F143C515700F5AB1B /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "WEPopoverController.h: No such file or directory";
+		fRef = 6B766E3D143C4FA100F5AB1B /* EPubViewController.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 12;
+		rType = 1;
+	};
+	6B766F51143C515900F5AB1B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6B766E3D143C4FA100F5AB1B /* EPubViewController.h */;
+		name = "EPubViewController.h: 6";
+		rLen = 0;
+		rLoc = 114;
+		rType = 0;
+		vrLen = 404;
+		vrLoc = 0;
+	};
+	6BD541B3143C4E7B00D901AC /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6B766DF0143C4F4A00F5AB1B /* BasicReaderForIphone */;
+		activeTarget = 6BD541BB143C4E7B00D901AC /* BasicReaderForIphone */;
+		addToTargets = (
+			6BD541BB143C4E7B00D901AC /* BasicReaderForIphone */,
+		);
+		codeSenseManager = 6B766E0B143C4F4C00F5AB1B /* Code sense */;
+		executables = (
+			6B766DF0143C4F4A00F5AB1B /* BasicReaderForIphone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 339496799;
+			PBXWorkspaceStateSaveDate = 339496799;
+		};
+		perUserProjectItems = {
+			6B766F2D143C50CC00F5AB1B /* PBXTextBookmark */ = 6B766F2D143C50CC00F5AB1B /* PBXTextBookmark */;
+			6B766F4E143C515700F5AB1B /* PBXTextBookmark */ = 6B766F4E143C515700F5AB1B /* PBXTextBookmark */;
+			6B766F4F143C515700F5AB1B /* XCBuildMessageTextBookmark */ = 6B766F4F143C515700F5AB1B /* XCBuildMessageTextBookmark */;
+			6B766F51143C515900F5AB1B /* PBXTextBookmark */ = 6B766F51143C515900F5AB1B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6B766E0A143C4F4C00F5AB1B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6BD541BB143C4E7B00D901AC /* BasicReaderForIphone */ = {
+		activeExec = 0;
+		executables = (
+			6B766DF0143C4F4A00F5AB1B /* BasicReaderForIphone */,
+		);
+	};
+	6BD541DF143C4E7C00D901AC /* BasicReaderForIphoneTests */ = {
+		activeExec = 0;
+	};
+}

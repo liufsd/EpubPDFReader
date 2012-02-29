@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A76E5D814FE815D00527A04 /* Reader-Button-H.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5D414FE815D00527A04 /* Reader-Button-H.png */; };
+		1A76E5D914FE815D00527A04 /* Reader-Button-H@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5D514FE815D00527A04 /* Reader-Button-H@2x.png */; };
+		1A76E5E814FE822E00527A04 /* Reader-Button-N.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5DC14FE822E00527A04 /* Reader-Button-N.png */; };
+		1A76E5E914FE822E00527A04 /* Reader-Button-N@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5DD14FE822E00527A04 /* Reader-Button-N@2x.png */; };
+		1A76E5EA14FE822E00527A04 /* Reader-Email.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5DE14FE822E00527A04 /* Reader-Email.png */; };
+		1A76E5EB14FE822E00527A04 /* Reader-Email@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5DF14FE822E00527A04 /* Reader-Email@2x.png */; };
+		1A76E5EC14FE822E00527A04 /* Reader-Mark-N.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5E014FE822E00527A04 /* Reader-Mark-N.png */; };
+		1A76E5ED14FE822E00527A04 /* Reader-Mark-N@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5E114FE822E00527A04 /* Reader-Mark-N@2x.png */; };
+		1A76E5EE14FE822E00527A04 /* Reader-Mark-Y.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5E214FE822E00527A04 /* Reader-Mark-Y.png */; };
+		1A76E5EF14FE822E00527A04 /* Reader-Mark-Y@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5E314FE822E00527A04 /* Reader-Mark-Y@2x.png */; };
+		1A76E5F014FE822E00527A04 /* Reader-Print.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5E414FE822E00527A04 /* Reader-Print.png */; };
+		1A76E5F114FE822E00527A04 /* Reader-Print@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5E514FE822E00527A04 /* Reader-Print@2x.png */; };
+		1A76E5F214FE822E00527A04 /* Reader-Thumbs.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5E614FE822E00527A04 /* Reader-Thumbs.png */; };
+		1A76E5F314FE822E00527A04 /* Reader-Thumbs@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A76E5E714FE822E00527A04 /* Reader-Thumbs@2x.png */; };
 		52AA699114EDED020030C4E9 /* MobileHIG.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 52AA699014EDED020030C4E9 /* MobileHIG.pdf */; };
 		52D3F49A14EA57AB003F7C76 /* libz.1.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D3F49914EA57AB003F7C76 /* libz.1.2.5.dylib */; };
 		52DE39E614EA6BB600738984 /* Peter Rabbit.epub in Resources */ = {isa = PBXBuildFile; fileRef = 52DE39E514EA6BB600738984 /* Peter Rabbit.epub */; };
@@ -91,20 +105,6 @@
 		6BD541F1143C4E7C00D901AC /* BasicReaderForIphoneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BD541F0143C4E7C00D901AC /* BasicReaderForIphoneTests.m */; };
 		6BFD599F143C520400F17426 /* xalanLICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD599E143C520400F17426 /* xalanLICENSE.txt */; };
 		6BFD59A1143C524900F17426 /* Repeat After Me User's Guide.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59A0143C524900F17426 /* Repeat After Me User's Guide.pdf */; };
-		6BFD59C1143C5DC800F17426 /* Reader-Button-H.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59B3143C5DC800F17426 /* Reader-Button-H.png */; };
-		6BFD59C2143C5DC800F17426 /* Reader-Button-H@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59B4143C5DC800F17426 /* Reader-Button-H@2x.png */; };
-		6BFD59C3143C5DC800F17426 /* Reader-Button-N.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59B5143C5DC800F17426 /* Reader-Button-N.png */; };
-		6BFD59C4143C5DC800F17426 /* Reader-Button-N@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59B6143C5DC800F17426 /* Reader-Button-N@2x.png */; };
-		6BFD59C5143C5DC800F17426 /* Reader-Email.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59B7143C5DC800F17426 /* Reader-Email.png */; };
-		6BFD59C6143C5DC800F17426 /* Reader-Email@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59B8143C5DC800F17426 /* Reader-Email@2x.png */; };
-		6BFD59C7143C5DC800F17426 /* Reader-Mark-N.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59B9143C5DC800F17426 /* Reader-Mark-N.png */; };
-		6BFD59C8143C5DC800F17426 /* Reader-Mark-N@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59BA143C5DC800F17426 /* Reader-Mark-N@2x.png */; };
-		6BFD59C9143C5DC800F17426 /* Reader-Mark-Y.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59BB143C5DC800F17426 /* Reader-Mark-Y.png */; };
-		6BFD59CA143C5DC800F17426 /* Reader-Mark-Y@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59BC143C5DC800F17426 /* Reader-Mark-Y@2x.png */; };
-		6BFD59CB143C5DC800F17426 /* Reader-Print.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59BD143C5DC800F17426 /* Reader-Print.png */; };
-		6BFD59CC143C5DC800F17426 /* Reader-Print@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59BE143C5DC800F17426 /* Reader-Print@2x.png */; };
-		6BFD59CD143C5DC800F17426 /* Reader-Thumbs.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59BF143C5DC800F17426 /* Reader-Thumbs.png */; };
-		6BFD59CE143C5DC800F17426 /* Reader-Thumbs@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFD59C0143C5DC800F17426 /* Reader-Thumbs@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -118,6 +118,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A76E5D414FE815D00527A04 /* Reader-Button-H.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Button-H.png"; path = "../BasicReaderForIphone/Reader-Button-H.png"; sourceTree = "<group>"; };
+		1A76E5D514FE815D00527A04 /* Reader-Button-H@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Button-H@2x.png"; path = "../BasicReaderForIphone/Reader-Button-H@2x.png"; sourceTree = "<group>"; };
+		1A76E5DC14FE822E00527A04 /* Reader-Button-N.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Button-N.png"; sourceTree = "<group>"; };
+		1A76E5DD14FE822E00527A04 /* Reader-Button-N@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Button-N@2x.png"; sourceTree = "<group>"; };
+		1A76E5DE14FE822E00527A04 /* Reader-Email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Email.png"; sourceTree = "<group>"; };
+		1A76E5DF14FE822E00527A04 /* Reader-Email@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Email@2x.png"; sourceTree = "<group>"; };
+		1A76E5E014FE822E00527A04 /* Reader-Mark-N.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Mark-N.png"; sourceTree = "<group>"; };
+		1A76E5E114FE822E00527A04 /* Reader-Mark-N@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Mark-N@2x.png"; sourceTree = "<group>"; };
+		1A76E5E214FE822E00527A04 /* Reader-Mark-Y.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Mark-Y.png"; sourceTree = "<group>"; };
+		1A76E5E314FE822E00527A04 /* Reader-Mark-Y@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Mark-Y@2x.png"; sourceTree = "<group>"; };
+		1A76E5E414FE822E00527A04 /* Reader-Print.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Print.png"; sourceTree = "<group>"; };
+		1A76E5E514FE822E00527A04 /* Reader-Print@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Print@2x.png"; sourceTree = "<group>"; };
+		1A76E5E614FE822E00527A04 /* Reader-Thumbs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Thumbs.png"; sourceTree = "<group>"; };
+		1A76E5E714FE822E00527A04 /* Reader-Thumbs@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reader-Thumbs@2x.png"; sourceTree = "<group>"; };
 		52AA699014EDED020030C4E9 /* MobileHIG.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = MobileHIG.pdf; sourceTree = "<group>"; };
 		52D3F49914EA57AB003F7C76 /* libz.1.2.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.2.5.dylib; path = usr/lib/libz.1.2.5.dylib; sourceTree = SDKROOT; };
 		52DE39E514EA6BB600738984 /* Peter Rabbit.epub */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Peter Rabbit.epub"; sourceTree = "<group>"; };
@@ -258,20 +272,6 @@
 		6BD541F0143C4E7C00D901AC /* BasicReaderForIphoneTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BasicReaderForIphoneTests.m; sourceTree = "<group>"; };
 		6BFD599E143C520400F17426 /* xalanLICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = xalanLICENSE.txt; sourceTree = "<group>"; };
 		6BFD59A0143C524900F17426 /* Repeat After Me User's Guide.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Repeat After Me User's Guide.pdf"; sourceTree = "<group>"; };
-		6BFD59B3143C5DC800F17426 /* Reader-Button-H.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Button-H.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Button-H.png"; sourceTree = "<group>"; };
-		6BFD59B4143C5DC800F17426 /* Reader-Button-H@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Button-H@2x.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Button-H@2x.png"; sourceTree = "<group>"; };
-		6BFD59B5143C5DC800F17426 /* Reader-Button-N.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Button-N.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Button-N.png"; sourceTree = "<group>"; };
-		6BFD59B6143C5DC800F17426 /* Reader-Button-N@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Button-N@2x.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Button-N@2x.png"; sourceTree = "<group>"; };
-		6BFD59B7143C5DC800F17426 /* Reader-Email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Email.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Email.png"; sourceTree = "<group>"; };
-		6BFD59B8143C5DC800F17426 /* Reader-Email@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Email@2x.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Email@2x.png"; sourceTree = "<group>"; };
-		6BFD59B9143C5DC800F17426 /* Reader-Mark-N.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Mark-N.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Mark-N.png"; sourceTree = "<group>"; };
-		6BFD59BA143C5DC800F17426 /* Reader-Mark-N@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Mark-N@2x.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Mark-N@2x.png"; sourceTree = "<group>"; };
-		6BFD59BB143C5DC800F17426 /* Reader-Mark-Y.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Mark-Y.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Mark-Y.png"; sourceTree = "<group>"; };
-		6BFD59BC143C5DC800F17426 /* Reader-Mark-Y@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Mark-Y@2x.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Mark-Y@2x.png"; sourceTree = "<group>"; };
-		6BFD59BD143C5DC800F17426 /* Reader-Print.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Print.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Print.png"; sourceTree = "<group>"; };
-		6BFD59BE143C5DC800F17426 /* Reader-Print@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Print@2x.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Print@2x.png"; sourceTree = "<group>"; };
-		6BFD59BF143C5DC800F17426 /* Reader-Thumbs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Thumbs.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Thumbs.png"; sourceTree = "<group>"; };
-		6BFD59C0143C5DC800F17426 /* Reader-Thumbs@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Reader-Thumbs@2x.png"; path = "../../EpubReader_new/EpubDownload/Classes/Reader-Thumbs@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -632,20 +632,20 @@
 		6BFD59CF143C5DCB00F17426 /* PDF Reader Image */ = {
 			isa = PBXGroup;
 			children = (
-				6BFD59B3143C5DC800F17426 /* Reader-Button-H.png */,
-				6BFD59B4143C5DC800F17426 /* Reader-Button-H@2x.png */,
-				6BFD59B5143C5DC800F17426 /* Reader-Button-N.png */,
-				6BFD59B6143C5DC800F17426 /* Reader-Button-N@2x.png */,
-				6BFD59B7143C5DC800F17426 /* Reader-Email.png */,
-				6BFD59B8143C5DC800F17426 /* Reader-Email@2x.png */,
-				6BFD59B9143C5DC800F17426 /* Reader-Mark-N.png */,
-				6BFD59BA143C5DC800F17426 /* Reader-Mark-N@2x.png */,
-				6BFD59BB143C5DC800F17426 /* Reader-Mark-Y.png */,
-				6BFD59BC143C5DC800F17426 /* Reader-Mark-Y@2x.png */,
-				6BFD59BD143C5DC800F17426 /* Reader-Print.png */,
-				6BFD59BE143C5DC800F17426 /* Reader-Print@2x.png */,
-				6BFD59BF143C5DC800F17426 /* Reader-Thumbs.png */,
-				6BFD59C0143C5DC800F17426 /* Reader-Thumbs@2x.png */,
+				1A76E5D414FE815D00527A04 /* Reader-Button-H.png */,
+				1A76E5D514FE815D00527A04 /* Reader-Button-H@2x.png */,
+				1A76E5DC14FE822E00527A04 /* Reader-Button-N.png */,
+				1A76E5DD14FE822E00527A04 /* Reader-Button-N@2x.png */,
+				1A76E5DE14FE822E00527A04 /* Reader-Email.png */,
+				1A76E5DF14FE822E00527A04 /* Reader-Email@2x.png */,
+				1A76E5E014FE822E00527A04 /* Reader-Mark-N.png */,
+				1A76E5E114FE822E00527A04 /* Reader-Mark-N@2x.png */,
+				1A76E5E214FE822E00527A04 /* Reader-Mark-Y.png */,
+				1A76E5E314FE822E00527A04 /* Reader-Mark-Y@2x.png */,
+				1A76E5E414FE822E00527A04 /* Reader-Print.png */,
+				1A76E5E514FE822E00527A04 /* Reader-Print@2x.png */,
+				1A76E5E614FE822E00527A04 /* Reader-Thumbs.png */,
+				1A76E5E714FE822E00527A04 /* Reader-Thumbs@2x.png */,
 			);
 			name = "PDF Reader Image";
 			sourceTree = "<group>";
@@ -730,23 +730,23 @@
 				6B766E9A143C4FD200F5AB1B /* TextReader.xib in Resources */,
 				6BFD599F143C520400F17426 /* xalanLICENSE.txt in Resources */,
 				6BFD59A1143C524900F17426 /* Repeat After Me User's Guide.pdf in Resources */,
-				6BFD59C1143C5DC800F17426 /* Reader-Button-H.png in Resources */,
-				6BFD59C2143C5DC800F17426 /* Reader-Button-H@2x.png in Resources */,
-				6BFD59C3143C5DC800F17426 /* Reader-Button-N.png in Resources */,
-				6BFD59C4143C5DC800F17426 /* Reader-Button-N@2x.png in Resources */,
-				6BFD59C5143C5DC800F17426 /* Reader-Email.png in Resources */,
-				6BFD59C6143C5DC800F17426 /* Reader-Email@2x.png in Resources */,
-				6BFD59C7143C5DC800F17426 /* Reader-Mark-N.png in Resources */,
-				6BFD59C8143C5DC800F17426 /* Reader-Mark-N@2x.png in Resources */,
-				6BFD59C9143C5DC800F17426 /* Reader-Mark-Y.png in Resources */,
-				6BFD59CA143C5DC800F17426 /* Reader-Mark-Y@2x.png in Resources */,
-				6BFD59CB143C5DC800F17426 /* Reader-Print.png in Resources */,
-				6BFD59CC143C5DC800F17426 /* Reader-Print@2x.png in Resources */,
-				6BFD59CD143C5DC800F17426 /* Reader-Thumbs.png in Resources */,
-				6BFD59CE143C5DC800F17426 /* Reader-Thumbs@2x.png in Resources */,
 				52DE39E614EA6BB600738984 /* Peter Rabbit.epub in Resources */,
 				52DE39E914EA6CB100738984 /* The Chessmen of Mars.epub in Resources */,
 				52AA699114EDED020030C4E9 /* MobileHIG.pdf in Resources */,
+				1A76E5D814FE815D00527A04 /* Reader-Button-H.png in Resources */,
+				1A76E5D914FE815D00527A04 /* Reader-Button-H@2x.png in Resources */,
+				1A76E5E814FE822E00527A04 /* Reader-Button-N.png in Resources */,
+				1A76E5E914FE822E00527A04 /* Reader-Button-N@2x.png in Resources */,
+				1A76E5EA14FE822E00527A04 /* Reader-Email.png in Resources */,
+				1A76E5EB14FE822E00527A04 /* Reader-Email@2x.png in Resources */,
+				1A76E5EC14FE822E00527A04 /* Reader-Mark-N.png in Resources */,
+				1A76E5ED14FE822E00527A04 /* Reader-Mark-N@2x.png in Resources */,
+				1A76E5EE14FE822E00527A04 /* Reader-Mark-Y.png in Resources */,
+				1A76E5EF14FE822E00527A04 /* Reader-Mark-Y@2x.png in Resources */,
+				1A76E5F014FE822E00527A04 /* Reader-Print.png in Resources */,
+				1A76E5F114FE822E00527A04 /* Reader-Print@2x.png in Resources */,
+				1A76E5F214FE822E00527A04 /* Reader-Thumbs.png in Resources */,
+				1A76E5F314FE822E00527A04 /* Reader-Thumbs@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
